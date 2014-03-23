@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StatisticalBunker</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="expectedLecture">Expected Total Lecture</string>
+    <string name="subjectName">Subject Name</string>
+    <string name="classesBunked">Classes Bunked</string>
+    <string name="save">Save</string>
+
+</resources>
